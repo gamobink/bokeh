@@ -19,6 +19,7 @@ requirements:
     - setuptools
     - nodejs >=4.1
     - six
+    - packaging
     - python-dateutil
     - numpy
     - yaml
